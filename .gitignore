@@ -1,0 +1,17 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Uploaded/generated files
+backend/uploaded.pdf
+
+# Node
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+
+# Environment files
+.env
+*.env
